@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/Unite1.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/u5_uyg5.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/unite1.xml" value="0.13868003341687551" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/unite5.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Desktop/MobilOrnekler/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Desktop/MobilOrnekler/app/src/main/res/layout/u7_uyg1.xml" value="0.32518115942028986" />
+        <entry key="..\:/Users/Ogrenci/Desktop/MobilOrnekler/app/src/main/res/layout/u7_uyg2.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Desktop/MobilOrnekler/app/src/main/res/layout/unite7.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/drawable/gorselsecim.xml" value="0.2655" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/activity_main.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg1.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg10.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg11.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg12.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg13.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg6.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg7.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg8.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg9.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg1.xml" value="0.27943840579710144" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg10.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg8.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg8_birinci.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg8_ikinci.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg1.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite2.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite5.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite6.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite7.xml" value="0.16869300911854104" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
