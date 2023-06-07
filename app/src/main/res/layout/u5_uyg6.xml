@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -19,14 +20,16 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:hint="Kısa Kenar"
-            android:inputType="number" />
+            android:inputType="number"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <EditText
             android:id="@+id/editTextUzunKenar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:hint="Uzun Kenar"
-            android:inputType="number" />
+            android:inputType="number"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <Button
             android:id="@+id/buttonKareAlani"
